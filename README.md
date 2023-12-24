@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-   Well, This is ME, Jansher Ameer, a <b>Computer Science</b> student at <a href="https://aptech-education.com.pk/"> <b>Aptech<br></a>
+   Well, This is ME, Jansher Ameer, a <b></b> student at <a href="https://aptech-education.com.pk/"> <b>Aptech<br></a>
     <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
