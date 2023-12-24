@@ -1,44 +1,54 @@
-# 👋 Welcome to My GitHub Profile!
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi,I'm Jansher Ameer</h1>
+<h3 align="center">Full-stack web developer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/jansher-ameer-39b1b8272/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jansher Ameer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/IamJanshairameer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Jansher Ameer" height="30" width="40" /></a>
+<a href="https://twitter.com/JansherAmeer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jansher Ameer" height="30" width="40" /></a>
+<a href = "mailto: Jansherameer@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="10" width="10" /></a>
+</p>
 
-Hey there, I'm Jansher Ameer, and I'm thrilled to have you here on my GitHub profile. Let me give you a glimpse of who I am and what I'm all about.
 
-## About Me
+<p align="center">
+  <em>
+   Well, This is ME, Jansher Ameer, a <b>Computer Science</b> student at <a href="https://aptech-education.com.pk/"> <b>Aptech<br></a>
+    <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>always <b>
+fascinated</b>
+    about new challenges to 
+    <b>grow</b>and 
+    <b>excel</b>&nbsp.
+  </em> 
+  <br>
+  
+</p>
 
-- 👀 I'm deeply passionate about Web Development. It's not just my profession; it's my creative outlet, my playground for innovation, and my canvas for crafting digital experiences.
+<hr>
 
-- 🌱 At the moment, I'm on an exciting journey to master JavaScript. The endless possibilities it offers keep me motivated and eager to dive deeper into this versatile language.
+💻 **Languages and Tools:** 🛠️<br>
 
-## My Skill Set
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
-I bring a diverse skill set to the table, including expertise in:
+<hr>
+<br>
+🤓 **Interested:** <br>
 
-- **HTML**: Building the structural foundation of web pages with semantic and accessible code.
+![React](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 
-- **CSS**: Artfully styling web content to make it visually appealing and responsive.
-
-- **Tailwind CSS**: Harnessing the power of utility-first CSS to streamline my front-end development process.
-
-- **JavaScript**: Creating interactive and dynamic web applications that engage users.
-
-- **React.js**: Developing modern, efficient single-page applications for a seamless user experience.
-
-- **Shopify**: Crafting e-commerce websites that not only look fantastic but also function flawlessly on the Shopify platform.
-
-- **WordPress**: Designing and customizing WordPress websites to stand out in the digital landscape.
-
-## Let's Collaborate
-
-I'm always open to exciting collaborations and keen to contribute to any web development projects. If you have a project idea or just want to chat about anything related to the web, I'd love to hear from you. Let's work together to create something extraordinary!
-
-## Get in Touch
-
-You can easily reach out to me via email at [Jansherameer@gmail.com](mailto:Jansherameer@gmail.com). I'm looking forward to connecting with you.
-
-Thank you for stopping by my GitHub profile. Feel free to explore my repositories, and if you're interested in collaborating or have any questions, don't hesitate to drop me a line.
-
-<!---
-Jansherameer12/Jansherameer12 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-You can click the Preview link to explore my projects and contributions.
---->
-
-Let's shape the future of the web together! 🚀
