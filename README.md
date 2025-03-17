@@ -1,5 +1,5 @@
 # 💫 About Me:
-No data loaded
+Loading data...
 
 
 ## 🌐 Socials:
