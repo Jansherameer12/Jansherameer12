@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm **Jansher Ameer**, a passionate developer who loves building innovative solutions. I enjoy working with modern technologies and always strive to learn something new.
 
-🌱 **Learning**: Advance Python   
+🌱 **Learning**: Next Js  & Node Js
 💬 **Ask Me About**: Web Development  
-📫 **How to Reach Me**: Jansherameer@gmail.com  
+📫 **How to Reach Me**: Contact@jansherameer.online 
 
 ---
 
